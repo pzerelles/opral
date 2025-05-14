@@ -8,7 +8,7 @@
 
 > **DetectedConflict** = `object`
 
-Defined in: [packages/lix-sdk/src/plugin/lix-plugin.ts:108](https://github.com/opral/monorepo/blob/bc82d6c7272aa8ad8661dcf0fee644d9229ef5eb/packages/lix-sdk/src/plugin/lix-plugin.ts#L108)
+Defined in: [packages/lix-sdk/src/plugin/lix-plugin.ts:108](https://github.com/pzerelles/opral/blob/e1a1649dcf42f139cb42fdb0f4eb674e7e5863f4/packages/lix-sdk/src/plugin/lix-plugin.ts#L108)
 
 ## Properties
 
@@ -16,7 +16,7 @@ Defined in: [packages/lix-sdk/src/plugin/lix-plugin.ts:108](https://github.com/o
 
 > **conflictingChangeIds**: `Set`\<[`Change`](Change.md)\[`"id"`\]\>
 
-Defined in: [packages/lix-sdk/src/plugin/lix-plugin.ts:116](https://github.com/opral/monorepo/blob/bc82d6c7272aa8ad8661dcf0fee644d9229ef5eb/packages/lix-sdk/src/plugin/lix-plugin.ts#L116)
+Defined in: [packages/lix-sdk/src/plugin/lix-plugin.ts:116](https://github.com/pzerelles/opral/blob/e1a1649dcf42f139cb42fdb0f4eb674e7e5863f4/packages/lix-sdk/src/plugin/lix-plugin.ts#L116)
 
 The changes that are conflicting.
 
@@ -26,6 +26,6 @@ The changes that are conflicting.
 
 > **key**: `string`
 
-Defined in: [packages/lix-sdk/src/plugin/lix-plugin.ts:112](https://github.com/opral/monorepo/blob/bc82d6c7272aa8ad8661dcf0fee644d9229ef5eb/packages/lix-sdk/src/plugin/lix-plugin.ts#L112)
+Defined in: [packages/lix-sdk/src/plugin/lix-plugin.ts:112](https://github.com/pzerelles/opral/blob/e1a1649dcf42f139cb42fdb0f4eb674e7e5863f4/packages/lix-sdk/src/plugin/lix-plugin.ts#L112)
 
 #### See

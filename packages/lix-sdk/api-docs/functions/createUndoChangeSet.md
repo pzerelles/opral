@@ -8,7 +8,7 @@
 
 > **createUndoChangeSet**(`args`): `Promise`\<\{ `id`: `string`; `immutable_elements`: `boolean`; \}\>
 
-Defined in: [packages/lix-sdk/src/change-set/create-undo-change-set.ts:26](https://github.com/opral/monorepo/blob/bc82d6c7272aa8ad8661dcf0fee644d9229ef5eb/packages/lix-sdk/src/change-set/create-undo-change-set.ts#L26)
+Defined in: [packages/lix-sdk/src/change-set/create-undo-change-set.ts:26](https://github.com/pzerelles/opral/blob/e1a1649dcf42f139cb42fdb0f4eb674e7e5863f4/packages/lix-sdk/src/change-set/create-undo-change-set.ts#L26)
 
 Creates a "reverse" change set that undoes the changes made by the specified change set.
 

@@ -8,7 +8,7 @@
 
 > **openLix**(`args`): `Promise`\<[`Lix`](../type-aliases/Lix.md)\>
 
-Defined in: [packages/lix-sdk/src/lix/open-lix.ts:33](https://github.com/opral/monorepo/blob/bc82d6c7272aa8ad8661dcf0fee644d9229ef5eb/packages/lix-sdk/src/lix/open-lix.ts#L33)
+Defined in: [packages/lix-sdk/src/lix/open-lix.ts:33](https://github.com/pzerelles/opral/blob/e1a1649dcf42f139cb42fdb0f4eb674e7e5863f4/packages/lix-sdk/src/lix/open-lix.ts#L33)
 
 Common setup between different lix environments.
 

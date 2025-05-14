@@ -8,7 +8,7 @@
 
 > **changeIsLowestCommonAncestorOf**(`changes`): `ExpressionWrapper`\<[`LixDatabaseSchema`](../type-aliases/LixDatabaseSchema.md), `"change"`, `SqlBool`\>
 
-Defined in: [packages/lix-sdk/src/query-filter/change-is-lowest-common-ancestor-of.ts:21](https://github.com/opral/monorepo/blob/bc82d6c7272aa8ad8661dcf0fee644d9229ef5eb/packages/lix-sdk/src/query-filter/change-is-lowest-common-ancestor-of.ts#L21)
+Defined in: [packages/lix-sdk/src/query-filter/change-is-lowest-common-ancestor-of.ts:21](https://github.com/pzerelles/opral/blob/e1a1649dcf42f139cb42fdb0f4eb674e7e5863f4/packages/lix-sdk/src/query-filter/change-is-lowest-common-ancestor-of.ts#L21)
 
 Filters changes that are the lowest common ancestor of the given changes.
 

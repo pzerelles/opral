@@ -8,7 +8,7 @@
 
 > **changeHasLabel**(`label`): (`eb`) => `ExpressionWrapper`\<[`LixDatabaseSchema`](../type-aliases/LixDatabaseSchema.md), `"change"`, `SqlBool`\>
 
-Defined in: [packages/lix-sdk/src/query-filter/change-has-label.ts:25](https://github.com/opral/monorepo/blob/bc82d6c7272aa8ad8661dcf0fee644d9229ef5eb/packages/lix-sdk/src/query-filter/change-has-label.ts#L25)
+Defined in: [packages/lix-sdk/src/query-filter/change-has-label.ts:25](https://github.com/pzerelles/opral/blob/e1a1649dcf42f139cb42fdb0f4eb674e7e5863f4/packages/lix-sdk/src/query-filter/change-has-label.ts#L25)
 
 Selects changes that have a label with the given name.
 
